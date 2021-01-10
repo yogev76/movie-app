@@ -8,6 +8,7 @@ class ActorsView extends React.Component {
         return (
             <Table>
                 <tr></tr>
+                <tr></tr>
          </Table>
  
         )
